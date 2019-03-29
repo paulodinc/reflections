@@ -3,3 +3,6 @@ To share with other people, and also to use it as a backup.
 
 Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 Porque ele não tem como saber quando é o momento correto para fazer os commits.
+
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+Está tudo bem claro.
